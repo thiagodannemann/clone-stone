@@ -1,0 +1,1 @@
+Esse foi um clone do site da máquina de cartão Stone que fiz no intuito de estudos.
